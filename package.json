@@ -2,7 +2,7 @@
   "name": "designsystemdiego-react",
   "sideEffects": false,
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "React specific wrapper for component-library",
   "repository": {
     "type": "git",
